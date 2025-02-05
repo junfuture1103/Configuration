@@ -1,6 +1,14 @@
 ## Install Link
 
-### 1. VMware workstation
+### 1. VMware workstation Pro
+- [https://www.vmware.com/kr/products/workstation-player/workstation-player-evaluation.html](https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html)
+
+(참고)
+VMware workstation pro 17 free 다운로드
+- https://foxydog.tistory.com/176
+
+  
+### (legacy) VMware workstation
 - https://www.vmware.com/kr/products/workstation-player/workstation-player-evaluation.html
 
 ### 2. Ubuntu OS
