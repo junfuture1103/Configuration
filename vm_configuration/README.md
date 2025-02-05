@@ -1,3 +1,6 @@
+## Reference for Install
+https://www.postype.com/@juntheworld/post/14918606
+
 ## Install Link
 
 ### 1. VMware workstation Pro
